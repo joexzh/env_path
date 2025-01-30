@@ -1,0 +1,1 @@
+A simple solution to add / remove a filename(path) in Registry's system or user scope environment 'Path' on Windows.
